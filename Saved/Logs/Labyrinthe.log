@@ -5111,3 +5111,16 @@ Script Stack (0 frames) :
 [2023.01.20-16.29.09:831][235]LogFileHelpers: InternalPromptForCheckoutAndSave took 339 ms (total: 7.43 sec)
 [2023.01.20-16.29.09:847][235]AssetCheck: New page: Asset Save: LabyrintheMap
 [2023.01.20-16.29.09:847][235]LogContentValidation: Display: Validating /Script/Engine.World /Game/Le_Labyrinthe/Maps/LabyrintheMap.LabyrintheMap
+[2023.01.20-16.35.49:153][749]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Le_Labyrinthe/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.01.20-16.35.49:160][749]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.20-16.37.00:903][213]Cmd: SELECT NONE
+[2023.01.20-16.38.57:232][360]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2023.01.20-16.41.51:506][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.20-16.41.51:665][ 16]LogSavePackage: Moving output files for package: /Game/Le_Labyrinthe/Blueprints/AC_LineTrace
+[2023.01.20-16.41.51:667][ 16]LogSavePackage: Moving '../../../../../../Users/tompo/OneDrive - De Vinci/Documents/Github/Labyrinthe/Saved/AC_LineTrace0D1EFC254E318B4F0C3B07A92D2D1F07.tmp' to '../../../../../../Users/tompo/OneDrive - De Vinci/Documents/Github/Labyrinthe/Content/Le_Labyrinthe/Blueprints/AC_LineTrace.uasset'
+[2023.01.20-16.41.51:687][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 7.62 sec)
+[2023.01.20-16.41.51:701][ 16]AssetCheck: New page: Asset Save: AC_LineTrace
+[2023.01.20-16.41.51:701][ 16]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Le_Labyrinthe/Blueprints/AC_LineTrace.AC_LineTrace
+[2023.01.20-16.41.53:955][135]LogUObjectHash: Compacting FUObjectHashTables data took   6.71ms
+[2023.01.20-16.41.54:291][155]BlueprintLog: New page: Compile AC_LineTrace
+[2023.01.20-16.41.54:611][155]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
