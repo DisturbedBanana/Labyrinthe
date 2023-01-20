@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/tompo/OneDrive - De Vinci/Documents/Github/Labyrinthe/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/tompo/OneDrive - De Vinci/Documents/Github/Labyrinthe/Content/Le_Labyrinthe/Input/IA_Look.uasset",
+				"C:/Users/tompo/OneDrive - De Vinci/Documents/Github/Labyrinthe/Content/Le_Labyrinthe/Input/IA_Move.uasset",
+				"C:/Users/tompo/OneDrive - De Vinci/Documents/Github/Labyrinthe/Content/Le_Labyrinthe/Blueprints/AC_LineTrace.uasset",
+				"C:/Users/tompo/OneDrive - De Vinci/Documents/Github/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/tompo/OneDrive - De Vinci/Documents/Github/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Button.uasset",
+				"C:/Users/tompo/OneDrive - De Vinci/Documents/Github/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/tompo/OneDrive - De Vinci/Documents/Github/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Torche.uasset",
+				"C:/Users/tompo/OneDrive - De Vinci/Documents/Github/Labyrinthe/Content/Le_Labyrinthe/Blueprints/PC_base.uasset",
+				"C:/Users/tompo/OneDrive - De Vinci/Documents/Github/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Trap.uasset",
+				"C:/Users/tompo/OneDrive - De Vinci/Documents/Github/Labyrinthe/Content/Le_Labyrinthe/Input/IMC_base.uasset",
+				"C:/Users/tompo/OneDrive - De Vinci/Documents/Github/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Collision.uasset",
+				"C:/Users/tompo/OneDrive - De Vinci/Documents/Github/Labyrinthe/Content/Le_Labyrinthe/Maps/LabyrintheMap.umap",
+				"C:/Users/tompo/OneDrive - De Vinci/Documents/Github/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_WinZone.uasset",
+				"C:/Users/tompo/OneDrive - De Vinci/Documents/Github/Labyrinthe/Content/Le_Labyrinthe/Input/IA_Interact.uasset",
+				"C:/Users/tompo/OneDrive - De Vinci/Documents/Github/Labyrinthe/Content/Le_Labyrinthe/Input/IA_ActivateTorch.uasset"
+			]
+		}
+	]
+}
