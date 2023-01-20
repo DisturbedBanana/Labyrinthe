@@ -5124,3 +5124,17 @@ Script Stack (0 frames) :
 [2023.01.20-16.41.53:955][135]LogUObjectHash: Compacting FUObjectHashTables data took   6.71ms
 [2023.01.20-16.41.54:291][155]BlueprintLog: New page: Compile AC_LineTrace
 [2023.01.20-16.41.54:611][155]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2023.01.20-16.51.23:104][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2023.01.20-16.51.23:127][ 63]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Le_Labyrinthe/Maps/LabyrintheMap_Auto2
+[2023.01.20-16.51.23:128][ 63]LogSavePackage: Moving '../../../../../../Users/tompo/OneDrive - De Vinci/Documents/Github/Labyrinthe/Saved/LabyrintheMap_Auto25D2510174DF93EB85BDC4292B0A574B2.tmp' to '../../../../../../Users/tompo/OneDrive - De Vinci/Documents/Github/Labyrinthe/Saved/Autosaves/Game/Le_Labyrinthe/Maps/LabyrintheMap_Auto2.umap'
+[2023.01.20-16.51.23:140][ 63]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Le_Labyrinthe/Maps/LabyrintheMap' took 0.194
+[2023.01.20-16.51.23:140][ 63]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.194
+[2023.01.20-16.54.19:373][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.01.20-16.54.19:381][254]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.20-16.54.19:689][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.01.20-16.54.19:705][254]LogSavePackage: Moving output files for package: /Game/Le_Labyrinthe/Maps/LabyrintheMap
+[2023.01.20-16.54.19:707][254]LogSavePackage: Moving '../../../../../../Users/tompo/OneDrive - De Vinci/Documents/Github/Labyrinthe/Saved/LabyrintheMap035CDAAE4E711595126DD1ACF8350949.tmp' to '../../../../../../Users/tompo/OneDrive - De Vinci/Documents/Github/Labyrinthe/Content/Le_Labyrinthe/Maps/LabyrintheMap.umap'
+[2023.01.20-16.54.19:720][254]LogFileHelpers: Saving map 'LabyrintheMap' took 0.161
+[2023.01.20-16.54.19:742][254]LogFileHelpers: InternalPromptForCheckoutAndSave took 360 ms (total: 7.98 sec)
+[2023.01.20-16.54.19:762][254]AssetCheck: New page: Asset Save: LabyrintheMap
+[2023.01.20-16.54.19:762][254]LogContentValidation: Display: Validating /Script/Engine.World /Game/Le_Labyrinthe/Maps/LabyrintheMap.LabyrintheMap
